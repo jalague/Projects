@@ -1,0 +1,17 @@
+Douglas Adams,The Hitchhiker's Guide To The Galaxy
+Orson Scott Card,Ender's Game
+John Flanagan,Ranger's Apprentice Series
+Cornelia Funke,Inkheart
+Will Hobbs,Far North
+Dan Brown,The Da Vinci Code
+Harper Lee,To Kill a Mockingbird
+J.K. Rowling,Harry Potter Series
+J R R Tolkien,The Lord of the Rings
+J R R Tolkien,The Hobbit
+George Orwell,Nineteen Eighty-Four (1984)
+Christopher Paolini,Eragon
+Richard Adams,Watership Down
+William Goldman,The Princess Bride
+Masashi Kishimoto,Naruto
+Robert Ludlum,The Bourne Series
+Stephenie Meyer,Twilight Series
