@@ -1,6 +1,6 @@
 ## Chugg (the communal drinking game)
 
-### This contains the classes for the drinking game "Chugg TM"
+### This contains java files and classes for the drinking game "Chugg TM"
 
 What is the Chugg?
 
