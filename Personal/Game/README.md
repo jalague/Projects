@@ -2,12 +2,12 @@
 
 ### This contains java files and classes for the drinking game "Chugg TM"
 
-What is the Chugg?
+#### What is the Chugg?
 
 This is a drinking game to be played with a large group of people. The game will randomly select someone from the group to drink or "Chugg" a random beverage at various intervals of time and send out a text message to the group saying who has to drink and what they have to drink (plus some fun quotes).
 
 
-How to Play:
+#### How to Play:
 
 (Make sure you have the most recent version of Java downloaded and download the .exe game or run the RunGame.java file - you will need to request special permission from jalague first before messages can be sent out).
 
